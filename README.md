@@ -76,8 +76,10 @@ CREATE TABLE expenses (
     category VARCHAR(50),
     notes TEXT
 );
+```
 
 ## Project Structure
+```
 Expense-Tracking-System/
 ├── 📂 backend/          # FastAPI Server logic
 │   ├── db_helper.py     # Database connection & queries
@@ -90,6 +92,7 @@ Expense-Tracking-System/
 ├── 📂 tests/            # Unit tests
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
+```
 
 ## Setup Instructions
 
