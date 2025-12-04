@@ -16,14 +16,21 @@ A robust, full-stack expense tracking application designed to help you monitor y
 ### 1. Expense Entry Dashboard
 Easily add or update multiple expenses for any specific date. The system supports categorization and custom notes for better tracking.
 
-![Add Expenses Interface](Screenshot 2025-12-04 204100.png)(Screenshot 2025-12-04 204123.png)
+![Add Expenses Interface]
+<img width="1919" height="970" alt="Screenshot 2025-12-04 204100" src="https://github.com/user-attachments/assets/83c5aff3-543d-46e5-b737-4d8760522fb3" />
+<img width="1919" height="971" alt="Screenshot 2025-12-04 204123" src="https://github.com/user-attachments/assets/a8155978-1f69-4ea5-8765-6ea5dc03a56a" />
+
 
 ### 2. Analytics & Visualizations
 Gain insights into your spending habits with dynamic bar charts and detailed data tables. Filter data by date ranges to see exactly where your budget is going.
 
-![Analytics Dashboard](Screenshot 2025-12-04 204141.png)(Screenshot 2025-12-04 204211.png)(Screenshot 2025-12-04 204220.png)
+![Analytics Dashboard]
+<img width="1919" height="972" alt="Screenshot 2025-12-04 204141" src="https://github.com/user-attachments/assets/7e6f9814-a7ea-496c-87f6-2f89a2ec3787" />
+<img width="1919" height="971" alt="Screenshot 2025-12-04 204211" src="https://github.com/user-attachments/assets/dd870cef-4c41-4a03-a143-324e7380b357" />
+<img width="1919" height="973" alt="Screenshot 2025-12-04 204220" src="https://github.com/user-attachments/assets/a51de823-95af-4623-afe9-2d1e6ef26809" />
 
 ---
+
 
 ## 🚀 Key Features
 
