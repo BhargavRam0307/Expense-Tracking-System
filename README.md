@@ -16,12 +16,12 @@ A robust, full-stack expense tracking application designed to help you monitor y
 ### 1. Expense Entry Dashboard
 Easily add or update multiple expenses for any specific date. The system supports categorization and custom notes for better tracking.
 
-![Add Expenses Interface](image_5a9fb8.png)
+![Add Expenses Interface](Screenshot 2025-12-04 204100.png)(Screenshot 2025-12-04 204123.png)
 
 ### 2. Analytics & Visualizations
 Gain insights into your spending habits with dynamic bar charts and detailed data tables. Filter data by date ranges to see exactly where your budget is going.
 
-![Analytics Dashboard](image_5a9f77.png)
+![Analytics Dashboard](Screenshot 2025-12-04 204141.png)(Screenshot 2025-12-04 204211.png)(Screenshot 2025-12-04 204220.png)
 
 ---
 
